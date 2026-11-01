@@ -2,7 +2,7 @@
 <br>
 
 
-### Hi, I'm <b>Muntasir Rifat </b> AKA  <b>Kinrei-R</b>
+### Hi, I'm <b>Muntasir Rifat </b> Also Known As  <b>Kinrei-R</b>
 ### <b>Tech Enthusiast | Full-Stack Developer | Content Creator</b>
 
 I am a tech enthusiast defined by an obsession with innovation and a never-ending thirst for learning. I don't just use technology; I live it—constantly exploring and pushing the
@@ -28,7 +28,7 @@ boundaries of what I can create.I am driven by the belief that there is always s
  
 ### Beyond the Screen
 
-        I’m training for explosive power in the gym or practicing martial arts.
+        I’m a hardcore Gamer as well as training for explosive power in the gym or practicing martial arts.
 
 
 ### Currently
@@ -43,7 +43,6 @@ boundaries of what I can create.I am driven by the belief that there is always s
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kinrei-r&show_icons=true&locale=en" alt="kinrei-r" /></p>
 
 
 
